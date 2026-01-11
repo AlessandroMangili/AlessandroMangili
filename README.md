@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi there, I'm ...
 
-<!--
-**AlessandroMangili/AlessandroMangili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# DIBRIS - University of Genoa
+🤖 Robotics Engineering Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Who I am
+I'm a Robotics Engineering student at the University of Genoa, passionate about programming and technology.  
+This is my university GitHub profile where I share academic projects, labs, and assignments.  
+[in progress...]
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com)  
+
+---
+
+## 💻 Tech Stack
+
+**Languages:** C/C++ | Python | Matlab | Java | JavaScript  
+**Databases:** Microsoft SQL Server  
+**Tools:** Git | VS Code  
+**Focus Areas:** Robotics | Automation | Software Development
