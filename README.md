@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Alessandro Mangili
 
-🎓 DIBRIS - University of Genoa
+🎓 DIBRIS - University of Genoa <br><br>
 🤖 Robotics Engineering Student
 
 ---
